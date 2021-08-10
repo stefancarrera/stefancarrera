@@ -14,14 +14,17 @@ I constantly strive to strengthen the skills I already have, while looking to ga
 ![needitgotit](https://user-images.githubusercontent.com/53131688/128930315-bdd5a520-6d94-4bd9-acb1-0443a9588f55.gif)
 
 :flower_playing_cards: Got it: JavaScript, React.js, CSS, Node.js, Express.js
+
 :flower_playing_cards: Need it: TypeScript, Swift
+
+Any suggestions for what to add to next? Let me know!
 
 :books: Currently I'm working on learning more about using the Canvas API, React.js, and working with more CSS libraries. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancarrera&show_icons=true&theme=cobalt&hide=contribs,stars)
 
 
-## :pager: Lets Connect:
+## :pager: Lets Connect!
 [Linkedin](https://www.linkedin.com/in/stefan-carrera/)
 
 
