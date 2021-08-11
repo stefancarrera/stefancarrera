@@ -3,7 +3,7 @@
 
 
 ## :suspect: About Me
-I'm a web developer with a passion for learning and making cool stuff! Speaking of cool stuff, check out some of the things I've built while you're here: 
+I'm a developer with a passion for learning and making cool stuff! Speaking of cool stuff, check out some of the things I've built while you're here: 
 
 Like the [D&D Directory](https://stefancarrera.github.io/dnd-directory/); where you can look up spell information or roll some D20s! 
 
@@ -26,6 +26,13 @@ Any suggestions for what to add to next? Let me know!
 
 ## :pager: Let's Connect!
 [![LI-In-Bug copy](https://user-images.githubusercontent.com/53131688/128944032-7e768dbe-ac83-4b80-8c1f-f3dffde8471f.png)](https://www.linkedin.com/in/stefan-carrera/)
+[LinkedIn](https://www.linkedin.com/in/stefan-carrera/)
+
+[:scroll:](https://github.com/stefancarrera/stefancarrera/files/6969384/SCarrera_Resume_sm.pdf)
+[Resume](https://github.com/stefancarrera/stefancarrera/files/6969384/SCarrera_Resume_sm.pdf)
+
+:email: <stefancarrera@gmail.com>
+
 
 
 
